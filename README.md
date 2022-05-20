@@ -6,4 +6,4 @@
 
 ## Портфолио: 
 
-## Сайт здорового питания [Сайт здорового питания](https://e1ena1.github.io/Module02-Shop/dist/)
+## [](https://github.com/E1ena1/Module02-Shop/blob/master/src/images/icons/mstile-150x150.png)[Сайт здорового питания](https://e1ena1.github.io/Module02-Shop/dist/)
