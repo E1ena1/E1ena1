@@ -4,3 +4,6 @@
 
 ###### Связаться со мной: kalinakrasnaya33@gmail.com
 
+## Портфолио: 
+
+## Сайт здорового питания [Сайт здорового питания](https://e1ena1.github.io/Module02-Shop/dist/)
