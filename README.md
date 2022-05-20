@@ -6,6 +6,6 @@
 
 ## Портфолио: 
 
-## ![]([https://github.com/E1ena1/Module02-Shop/blob/master/src/images/icons/mstile-150x150.png](https://raw.githubusercontent.com/E1ena1/Module01-Gym/main/images/favicon/favicon.ico))
+## ![Logo](https://raw.githubusercontent.com/E1ena1/Module01-Gym/main/images/favicon/mstile-150x150.png) 
 ##[Сайт здорового питания HealthyFood](https://e1ena1.github.io/Module02-Shop/dist/)
 ## 
