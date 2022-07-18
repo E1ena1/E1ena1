@@ -11,5 +11,5 @@
 
 
 
-###### Связаться со мной: kalinakrasnaya33@gmail.com
-###### https://t.me/ElenaMihaeelovna
+###### Связаться со мной:  https://t.me/ElenaMihaeelovna
+###### kalinakrasnaya33@gmail.com 
