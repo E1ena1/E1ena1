@@ -2,10 +2,10 @@
 
 ## Я занимаюсь версткой и адаптацией веб-сайтов c 2021г.
 
-## Языки и инструменты, которые использую в работе: HTML, CSS, SASS(SCSS), Figma, Webstorm, VSCode.
-## Изучаю JavaScript, React.
+#### Языки и инструменты, которые использую в работе: HTML, CSS, SASS(SCSS), Figma, Webstorm, VSCode.
+#### Изучаю JavaScript, React.
 
-## Ссылки на некоторые мои работы ниже: 
+#### Ссылки на некоторые мои работы ниже: 
 
 ## ![favicon](https://raw.githubusercontent.com/E1ena1/Module02-Shop/master/src/images/icons/favicon.ico)[ Интернет-магазин органической еды HealthyFood](https://e1ena1.github.io/Module02-Shop/dist/)
 
